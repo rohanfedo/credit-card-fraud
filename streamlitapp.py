@@ -1,3 +1,4 @@
+pip install scikit-learn
 
 import sklearn
 import streamlit as st
